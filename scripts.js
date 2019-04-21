@@ -12,11 +12,11 @@ var loan_1183x113_b_2017 = '<iframe src="banners/2017/business/1183x113/1183x113
 
 //auto 2017 start
 
-var loan_240x350_a_2017 = '<iframe src="banners/2017/auto/240x350/240x350_car.html" class="loan_240x350"></iframe>';
+var loan_240x350_a_2017 = '<iframe src="banners/2017/auto/240x350/240X350_car.html" class="loan_240x350"></iframe>';
 var loan_240x150_a_2017 = '<iframe src="banners/2017/auto/240x150/240X150_car.html" class="loan_240x150"></iframe>';
-var loan_285x285_a_2017 = '<iframe src="banners/2017/auto/285x285/285x285_car.html" class="loan_285x285"></iframe>';
-var loan_320x240_a_2017 = '<iframe src="banners/2017/auto/320x240/320x240_car.html" class="loan_320x240"></iframe>';
-var loan_940x119_a_2017 = '<iframe src="banners/2017/auto/940x119/940x119_car.html" class="loan_940x119"></iframe>';
+var loan_285x285_a_2017 = '<iframe src="banners/2017/auto/285x285/285X285_car.html" class="loan_285x285"></iframe>';
+var loan_320x240_a_2017 = '<iframe src="banners/2017/auto/320x240/320X240_car.html" class="loan_320x240"></iframe>';
+var loan_940x119_a_2017 = '<iframe src="banners/2017/auto/940x119/940X119_car.html" class="loan_940x119"></iframe>';
 
 //auto 2017 end
 
