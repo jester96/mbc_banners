@@ -4,7 +4,7 @@
 
 var loan_234x240_b_2017 = '<iframe src="banners/2017/business/234x240/234X240 Business.html" class="loan_234x240"></iframe>';
 var loan_300x240_b_2017 = '<iframe src="banners/2017/business/300x240/300X240 Business.html" class="loan_300x240"></iframe>';
-var loan_320x240_b_2017 = '<iframe src="banners/2017/business/320x240/320x240 Business.html" class="loan_320x240"></iframe>';
+var loan_320x240_b_2017 = '<iframe src="banners/2017/business/320x240/320X240 Business.html" class="loan_300x240"></iframe>';
 var loan_728x90_b_2017 = '<iframe src="banners/2017/business/728x90/728x90 Business.html" class="loan_728x90"></iframe>';
 var loan_1183x113_b_2017 = '<iframe src="banners/2017/business/1183x113/1183x113 Business.html" class="loan_1183x113"></iframe>';
 
